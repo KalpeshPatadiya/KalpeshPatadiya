@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KalpeshPatadiya
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP-Laravel
+- 🌱 I’m currently learning JavaScript Node.js
 - 📫 How to reach me patadiya.kalpesh2003@gmail.com
 
 <!---
